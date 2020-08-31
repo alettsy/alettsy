@@ -7,9 +7,10 @@
 - ⚡ Fun fact: I love to learn new things!... and play games.
 
 ### 🌐 Connect with me:
-
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+ 
+[<img align="left" alt="alexsaltyoreo | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Alex Betts | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="alexiplex#3919 | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/discord.svg" />][discord]
 
 <br />
 
@@ -43,4 +44,5 @@
 
 [twitter]: https://twitter.com/alexsaltyoreo
 [linkedin]: https://www.linkedin.com/in/alex-betts-1a98b9167
+[discord]: https://www.google.com/search?q=alexiplex%233919+on+discord
 [google]: https://www.google.com
