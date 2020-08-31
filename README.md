@@ -1,10 +1,10 @@
 ## 👋 Hello World, I'm Alex 
 
 ### 📚 I'm a Student at University and a Flutter developer!
-- 🌱 I’m currently learning Flutter app development and Design Patterns.
+- 🌱 I’m currently learning Flutter app development & Design Patterns.
 - 👯 I’m looking to collaborate with other content creators.
-- 🥅 2020/21 Goals: Contribute more to Open Source projects.
-- ⚡ Fun fact: I love to learn new things!... and play games.
+- 🥅 2020/21 Goals: Contribute more to Open Source projects & practice writing code more!
+- ⚡ Fun fact: I love to learn new things and test them out for myself.
 
 ### 🌐 Connect with me:
  
