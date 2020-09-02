@@ -40,7 +40,7 @@
 
 ---
 
-<img align="left" alt="Alex GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=alexiplex&show_icons=true" />
+<img align="left" alt="Alex's GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=alexiplex&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 
 [twitter]: https://twitter.com/alexsaltyoreo
 [linkedin]: https://www.linkedin.com/in/alex-betts-1a98b9167
