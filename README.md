@@ -8,9 +8,9 @@
 
 ### 🌐 Connect with me:
  
-[<img align="left" alt="alexsaltyoreo | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Alex Betts | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="alexiplex#3919 | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/discord.svg" />][discord]
+[<img align="left" title="@alexsaltyoreo" alt="alexsaltyoreo | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" title="Alex Betts @ LinkedIn" alt="Alex Betts | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" title="alexiplex#3919 @ Discord" alt="alexiplex#3919 | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/discord.svg" />][discord]
 
 <br />
 
