@@ -1,7 +1,7 @@
 ## 👋 Hello World, I'm Alex 
 
-### 📚 I'm a Student at University and a Flutter developer!
-- 🌱 I’m currently learning Flutter app development & Design Patterns.
+### 📚 I'm a Student at University and a student developer!
+- 🌱 I’m currently learning Flutter app development & Golang.
 - 👯 I’m looking to collaborate with other content creators.
 - 🥅 2020/21 Goals: Contribute more to Open Source projects & create more content!
 - ⚡ Fun fact: I love to learn new things and test them out for myself.
@@ -10,7 +10,7 @@
  
 [<img align="left" title="@alexsaltyoreo" alt="alexsaltyoreo | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" title="Alex Betts @ LinkedIn" alt="Alex Betts | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" title="alexiplex#3086 @ Discord" alt="alexiplex#3919 | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/discord.svg" />][discord]
+[<img align="left" title="Alexi#3086 @ Discord" alt="alexiplex#3919 | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/discord.svg" />][discord]
 
 <br />
 
@@ -23,7 +23,6 @@
 [<img align="left" title="Flutter" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />][google]
 [<img align="left" title="Python" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][google]
 [<img align="left" title="Java" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />][google]
-[<img align="left" title="IntelliJ" alt="IntelliJ" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/IntelliJ_IDEA_Logo.svg/600px-IntelliJ_IDEA_Logo.svg.png" />][google]
 [<img align="left" title="CSharp" alt="CSharp" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />][google]
 [<img align="left" title="C++" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />][google]
 [<img align="left" title="SQL" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][google]
