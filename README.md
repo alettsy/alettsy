@@ -1,13 +1,16 @@
 ## 👋 Hello World, I'm Alex 
 
-### 📚 I'm a Student at University and a student developer!
-- 🌱 I’m currently learning Flutter app development & Golang.
+### 📚 I'm a Student at university!
+- 🌱 I’m currently experimenting with various technologies.
 - 👯 I’m looking to collaborate with other content creators.
-- 🥅 2020/21 Goals: Contribute more to Open Source projects & create more content!
-- ⚡ Fun fact: I love to learn new things and test them out for myself.
+- 🥅 2021/22 Goals: Contribute more to Open Source projects & put more of my code out there!
+- ⚡ Fun fact: I have a rabbit called Oreo.
+
+### 🟢 What Am I Up To?
+- 🌞 Enjoying summer
+- 🧪 Learning and experimenting with Golang
 
 ### 🌐 Connect with me:
- 
 [<img align="left" title="@alexsaltyoreo" alt="alexsaltyoreo | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" title="Alex Betts @ LinkedIn" alt="Alex Betts | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" title="Hexed#0999 @ Discord" alt="Hexed#0999 | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/discord.svg" />][discord]
@@ -45,5 +48,5 @@
 
 [twitter]: https://twitter.com/alexsaltyoreo
 [linkedin]: https://www.linkedin.com/in/alex-betts-1a98b9167
-[discord]: https://www.google.com/search?q=alexiplex%233919+on+discord
+[discord]: https://www.google.com/search?q=Hexed%230999+on+discord
 [google]: https://www.google.com
