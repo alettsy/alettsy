@@ -7,8 +7,9 @@
 - ⚡ Fun fact: I have a rabbit called Oreo.
 
 ### 🟢 What Am I Up To?
-- 🌞 Enjoying summer
-- 🧪 Learning and experimenting with Golang & Rust
+- 💪 Doing my Year in Industry placement
+- 🇪🇸 Learning Spanish
+- 🐦 Learning origami
 
 ### 🌐 Connect with me:
 [<img align="left" title="@alexsaltyoreo" alt="alexsaltyoreo | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
