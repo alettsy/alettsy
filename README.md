@@ -8,8 +8,8 @@
 
 ### 🟢 What Am I Up To?
 - 💪 Doing my Year in Industry placement
+- 🦅 Learning origami
 - 🇪🇸 Learning Spanish
-- 🐦 Learning origami
 
 ### 🌐 Connect with me:
 [<img align="left" title="@alexsaltyoreo" alt="alexsaltyoreo | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
