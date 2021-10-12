@@ -10,6 +10,7 @@
 - 💪 Doing my Year in Industry placement
 - 🦅 Learning origami
 - 🇪🇸 Learning Spanish
+- 🐦Taking another look at Flutter
 
 ### 🌐 Connect with me:
 [<img align="left" title="@alexsaltyoreo" alt="alexsaltyoreo | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
