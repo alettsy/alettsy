@@ -5,6 +5,7 @@
 - 👯 I’m looking to collaborate with other content creators.
 - 🥅 2021/22 Goals: Contribute more to Open Source projects & put more of my code out there!
 - ⚡ Fun fact: I have a rabbit called Oreo.
+- ❤️ Fun fact: I have an amazing girlfriend called Valeria 
 
 ### 🟢 What Am I Up To?
 - 💪 Doing my Year in Industry placement
