@@ -1,17 +1,16 @@
 ## 👋 Hello World, I'm Alex 
 
 ### 📚 I'm a Student at university!
-- 🌱 I’m currently experimenting with various languages.
-- 👯 I’m looking to collaborate with other content creators.
-- 🥅 2021/22 Goals: Contribute more to Open Source projects & put more of my code out there!
+- 🌱 I’m currently experimenting with Next JS / React JS.
+- 👯 I’m looking to get in touch with other developers.
+- 🥅 2022 Goal: Experiment and create more!
 - ⚡ Fun fact: I have a rabbit called Oreo.
-- ❤️ Fun fact: I have an amazing girlfriend called Valeria 
 
 ### 🟢 What Am I Up To?
 - 💪 Doing my Year in Industry placement
-- 🦅 Learning origami
+- 🦅 Learning needle felting
 - 🇪🇸 Learning Spanish
-- 🐦Taking another look at Flutter
+- 🐦Getting into Next JS
 
 ### 🌐 Connect with me:
 [<img align="left" title="Alex Betts @ LinkedIn" alt="Alex Betts | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
