@@ -1,16 +1,15 @@
 ## 👋 Hello World, I'm Alex 
 
 ### 📚 I'm a Student at university!
-- 🌱 I’m currently experimenting with Next JS / React JS.
+- 🌱 I’m currently experimenting with Svelte and Rust.
 - 👯 I’m looking to get in touch with other developers.
-- 🥅 2022 Goal: Experiment and create more!
-- ⚡ Fun fact: I have a rabbit called Oreo.
+- 🥅 2022 Goal: Contribute more to open source projects.
+- 🐇 Fun fact: I have a rabbit called Oreo.
 
 ### 🟢 What Am I Up To?
-- 💪 Doing my Year in Industry placement
-- 🦅 Learning needle felting
-- 🇪🇸 Learning Spanish
-- 🐦Getting into Next JS
+- 💪 Doing my Year in Industry placement.
+- 🐦 Getting into Svelte.
+- 🦀 Trying my hand at Rust.
 
 ### 🌐 Connect with me:
 [<img align="left" title="Alex Betts @ LinkedIn" alt="Alex Betts | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
