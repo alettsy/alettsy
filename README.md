@@ -1,6 +1,6 @@
 ## 👋 Hello World, I'm Alex 
 
-### 📚 I'm a Student at university!
+### 📚 I just graduated from university!
 - 👯 I’m looking to get in touch with other developers.
 - 🥅 2023 Goal: Contribute more to open source projects.
 - 🐇 Fun fact: I have two rabbits called Oreo and Holly.
