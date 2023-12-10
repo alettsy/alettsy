@@ -11,5 +11,5 @@
 
 <br />
 
-<img align="left" alt="Alex's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alettsy&theme=radical" /> <br/>
+<img align="left" alt="Alex's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alettsy&layout=compact&theme=radical" /> <br/>
 <img align="left" alt="Alex's GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=alettsy&show_icons=true&theme=radical" />
