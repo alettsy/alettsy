@@ -7,7 +7,7 @@
   <li>I am currently working for 👷 <a href="https://www.edwardsvacuum.com">Edwards Vacuum Ltd</a> as a Graduate Software Engineer.</li>
   <li>I like to play around with different 💻 technologies.</li>
   <li>I'm trying to improve my 🦀 Rust skills.</li>
-  <li>I'm looking to contribute more to 📂 open-source projects on GitHub.</li>
+  <li>I'm looking to contribute more to 📂 open source projects on GitHub.</li>
 </ul>
 
 ###
