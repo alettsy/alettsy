@@ -4,8 +4,9 @@
 
 <ul align="left">
   <li>I'm a first class honours graduate from the 🎓 University of Kent, Canterbury, and a developer and tinkerer.</li>
-  <li>I am currently working for 👷 <a href="https://www.edwardsvacuum.com">Edwards Vacuum Ltd</a> as a Graduate Software Engineer.</li>
+  <li>I am currently working for 👷 <a href="https://www.edwardsvacuum.com">Edwards Vacuum Ltd</a> as a Software Engineer.</li>
   <li>I like to play around with different 💻 technologies.</li>
+  <li>I am trying to make useful things in 🩵 Flutter.</li>
   <li>I'm trying to improve my 🦀 Rust skills.</li>
   <li>I'm always trying to 🧠 learn something new.</li>
   <li>I'm looking to collaborate and contribute more to 📂 open source projects on GitHub.</li>
@@ -13,20 +14,18 @@
 
 ###
 
-<h3 align="left">Main Tech Stack</h3>
+<h3 align="left">Main Technologies I Use</h3>
 
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Remix-6BFF51?logo=remix&logoColor=black&style=for-the-badge" height="40" alt="remix" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&logoColor=white&style=for-the-badge" height="40" alt="svelte logo"  />
-  <img width="12" />
   <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" height="40" alt="flutter logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge" height="40" alt="dart logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Remix-6BFF51?logo=remix&logoColor=black&style=for-the-badge" height="40" alt="remix" />
   <img width="12" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="40" alt="python logo"  />
   <img width="12" />
@@ -37,10 +36,6 @@
   <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge" height="40" alt="arduino logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge" height="40" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="40" alt="css3 logo"  />
 </div>
 
 ###
@@ -59,6 +54,8 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="40" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Godot Engine-478CBF?logo=godotengine&logoColor=white&style=for-the-badge" height="40" alt="godot logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&logoColor=white&style=for-the-badge" height="40" alt="svelte logo"  />
   <img width="12" />
 </div>
 
