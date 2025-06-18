@@ -3,108 +3,81 @@
 ###
 
 <ul align="left">
-  <li>I'm a first class honours graduate from the 🎓 University of Kent, Canterbury, and a developer and tinkerer.</li>
-  <li>I am currently working for 👷 <a href="https://www.edwardsvacuum.com">Edwards Vacuum Ltd</a> as a Software Engineer.</li>
-  <li>I like to play around with different 💻 technologies.</li>
-  <li>I am trying to make useful things in 🩵 Flutter.</li>
-  <li>I'm trying to improve my 🦀 Rust skills.</li>
-  <li>I'm always trying to 🧠 learn something new.</li>
-  <li>I'm looking to collaborate and contribute more to 📂 open source projects on GitHub.</li>
+  <li>🎓 I'm a first class honours graduate from the University of Kent, Canterbury</li>
+  <li>👶 I've been programming since I was 11</li>
+  <li>👷 I am currently working for <a href="https://www.edwardsvacuum.com">Edwards Vacuum Ltd</a> as a Software Engineer.</li>
+  <li>💻 I like to play around with different technologies.</li>
+  <li>🧠 I'm always trying to learn something new</li>
+  <li>📂 I'm looking to contribute more to open source projects</li>
 </ul>
 
 ###
 
-<h3 align="left">Main Technologies I Use</h3>
+<h4 align="left">⚙️ Main technologies I use</h4>
 
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" height="40" alt="flutter logo"  />
+  <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge" height="40" alt="dart logo"  />
+  <img src="https://skillicons.dev/icons?i=dart" height="40" alt="dart logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="40" alt="typescript logo"  />
+  <img src="https://skillicons.dev/icons?i=rust" height="40" alt="rust logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Remix-6BFF51?logo=remix&logoColor=black&style=for-the-badge" height="40" alt="remix" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="40" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/C Sharp-239120?logo=csharp&logoColor=white&style=for-the-badge" height="40" alt="csharp logo"  />
+  <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge" height="40" alt="dot-net logo"  />
+  <img src="https://skillicons.dev/icons?i=remix" height="40" alt="remix logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge" height="40" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge" height="40" alt="sqlite logo"  />
+  <img src="https://skillicons.dev/icons?i=svelte" height="40" alt="svelte logo"  />
 </div>
 
 ###
 
-<h3 align="left">Other Technologies I Like</h3>
+<h4 align="left">⚙️ Other technologies I like</h4>
 
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=for-the-badge" height="40" alt="rust logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=for-the-badge" height="40" alt="go logo"  />
+  <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="kotlin logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge" height="40" alt="kotlin logo"  />
+  <img src="https://skillicons.dev/icons?i=godot" height="40" alt="godot logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="40" alt="postgresql logo"  />
+  <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="arduino logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Godot Engine-478CBF?logo=godotengine&logoColor=white&style=for-the-badge" height="40" alt="godot logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&logoColor=white&style=for-the-badge" height="40" alt="svelte logo"  />
-  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo"  />
 </div>
 
 ###
 
-<h3 align="left">Some Tools I Like</h3>
+<h4 align="left">⚙️ Some tools I use</h4>
 
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?logo=intellijidea&logoColor=white&style=for-the-badge" height="40" alt="intellij logo"  />
+  <img src="https://skillicons.dev/icons?i=idea" height="40" alt="intellijidea logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Fleet-000000?logo=jetbrains&logoColor=white&style=for-the-badge" height="40" alt="fleet logo"  />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="40" alt="vscode logo"  />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=black&style=for-the-badge" height="40" alt="postman logo"  />
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
 </div>
-
-###
-
-<h3 align="left">GitHub Stats</h3>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alettsy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&maxDuration=10&locale=en&hide_border=false&order=1&custom_title=Alex's%20Stats" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alettsy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=false&order=2&maxDuration=10" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<h3 align="left">Socials & Sites</h3>
 
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/alex-betts/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.hackerrank.com/profile/alettsy" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alettsy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=rose_pine&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=alettsy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=en&hide_border=false&order=1&custom_title=Alex's%20Stats" height="150" alt="stats graph"  />
 </div>
 
 ###
 
-<p align="left">Check out my personal site <a href="https://alettsy.github.io/">here</a>!</p>
+<img src="https://raw.githubusercontent.com/alettsy/alettsy/output/snake.svg" alt="Snake animation" />
 
 ###
